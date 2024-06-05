@@ -1,0 +1,116 @@
+(2013: 8:13: 3:18) - (!) INITIALIZING GAME SERVER...
+(2013: 8:13: 3:18) - (!) Reading configuration file...
+(2013: 8:13: 3:18) - Gate DNS is set to 0
+(2013: 8:13: 3:18) - Log DNS is set to 0
+(2013: 8:13: 3:18) - (*) Game server name : Dungeon
+(2013: 8:13: 3:18) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Internal (LAN) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) External (Internet) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Game server port : 9901
+(2013: 8:13: 3:18) - (*) Log server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Log server port : 2500
+(2013: 8:13: 3:18) - (*) Gate server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Gate server port : 6502
+(2013: 8:13: 3:18) - (*) Game server mode : INTERNET
+(2013: 8:13: 3:18) - (*) Add map (dglv2)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (dglv3)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (dglv4)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (!) Reading settings file...
+(2013: 8:13: 3:18) - (*) Enemy Kill Mode: DEATHMATCH
+(2013: 8:13: 3:18) - (*) Player gains (1) EK per enemy kill.
+(2013: 8:13: 3:18) - (*) Administator vulnerability ignored.
+(2013: 8:13: 3:18) - (*) Monday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Tuesday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Wednesday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Thursday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Friday Raid Time : (10) minutes
+(2013: 8:13: 3:18) - (*) Saturday Raid Time : (45) minutes
+(2013: 8:13: 3:18) - (*) Sunday Raid Time : (60) minutes
+(2013: 8:13: 3:18) - (*) Not Logging Any Chat.
+(2013: 8:13: 3:18) - (*) Summoning guild costs (50000) gold
+(2013: 8:13: 3:18) - (*) Slate Success Rate (50) percent
+(2013: 8:13: 3:18) - (*) Security number memorized!
+(2013: 8:13: 3:18) - (*) Heldenian War starting time set to 1 minutes.
+(2013: 8:13: 3:18) - (*) Heldenian War total duration set to 105 minutes.
+(2013: 8:13: 3:18) - (!) Reading AdminList.cfg...
+(2013: 8:13: 3:18) - (!) Reading BannedList.cfg...
+(2013: 8:13: 3:18) - (!) Reading settings file...
+(2013: 8:13: 3:18) - (!) Reading World.cfg...
+(2013: 8:13: 3:18) - (!) World configuration - success!
+(2013: 8:13: 3:18) - (!) Reading Teleport.cfg...
+(2013: 8:13: 3:18) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2013: 8:13: 3:18) - (!) Reading Crafting.cfg...
+(2013: 8:13: 3:18) - (!) CRAFTING(Total:25) configuration - success!
+(2013: 8:13: 3:18) - (!) Try to Connect main-log-socket... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to Connect Gate Server... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:18) - (!) Notify Message list file not found!...
+(2013: 8:13: 3:18) - (!!!) Main-log-socket connected!
+(2013: 8:13: 3:18) - (!) Try to register game server(Dungeon)
+(2013: 8:13: 3:18) - (!!!) Gate-socket connected!
+(2013: 8:13: 3:18) - (!) Try to register game server(Dungeon) - GateServer
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(0) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Game Server registration to Gate Server - Success!
+(2013: 8:13: 3:18) - (!) NPC configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) NPC(Total:115) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:292) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:623) configuration - success!
+(2013: 8:13: 3:18) - (!) MAGIC configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) MAGIC(Total:96) configuration - success!
+(2013: 8:13: 3:18) - (!) SKILL configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) SKILL(Total:23) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:914) configuration - success!
+(2013: 8:13: 3:18) - (!) QUEST configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) QUEST(Total:90) configuration - success!
+(2013: 8:13: 3:18) - (!) BUILD-ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) BuildItem(Total:97) configuration - success!
+(2013: 8:13: 3:18) - (!) DupItemID file contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) DupItemID(Total:13) configuration - success!
+(2013: 8:13: 3:18) - (!) Noticement file contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) Noticement Data Size: 1269
+(2013: 8:13: 3:18) - (!) PORTION configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) POTION(Total:19) configuration - success!
+(2013: 8:13: 3:18) - (!) Game Server registration to Log Server - Success!
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(1)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(1) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(2)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(2) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(3)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(3) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(4)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(4) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(5)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(5) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(6)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(6) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!) Try to connect sub-log-socket(7)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!!!) Log Socket Connection Established Log#(7) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!) Try to connect sub-log-socket(8)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!!!) Log Socket Connection Established Log#(8) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!) Try to connect sub-log-socket(9)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - (!!!) Log Socket Connection Established Log#(9) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:19) - Sending start message...
+(2013: 8:13: 3:19) - (!) Reading Map info file : mapdata\dglv2.txt
+(2013: 8:13: 3:19) - (!) Map decoding(mapdata\dglv2.txt) - success! WP(9) LNPC(0) RMG(1 / 5)
+(2013: 8:13: 3:19) - (!) Reading Map info file : mapdata\dglv3.txt
+(2013: 8:13: 3:19) - (!) Map decoding(mapdata\dglv3.txt) - success! WP(9) LNPC(0) RMG(1 / 9)
+(2013: 8:13: 3:19) - (!) Reading Map info file : mapdata\dglv4.txt
+(2013: 8:13: 3:19) - (!) Map decoding(mapdata\dglv4.txt) - success! WP(9) LNPC(0) RMG(1 / 10)
+(2013: 8:13: 3:19) - (!) Reading Crusade configuration file...
+(2013: 8:13: 3:19) - (!) Reading Schedule file...
+(2013: 8:13: 3:19) - (!) Reading CrusadeGUID file...
+(2013: 8:13: 3:19) - CrusadeGUID = 1
+(2013: 8:13: 3:19) - CrusadeWinnerSide = 0
+(2013: 8:13: 3:19) - (!) Reading ApocalypseGUID file...
+(2013: 8:13: 3:19) - ApocalypseGUID = 21893752
+(2013: 8:13: 3:19) - (_) Reading HeldenianGUID file...
+(2013: 8:13: 3:19) - (_) Read HeldenianGUID (0) file: Nobody owns BtField (0).
+(2013: 8:13: 3:19) - 
+(2013: 8:13: 3:19) - (!) Game Server Activated.

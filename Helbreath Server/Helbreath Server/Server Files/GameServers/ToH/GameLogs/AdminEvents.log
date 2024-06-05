@@ -1,0 +1,242 @@
+(2008: 7:10: 2: 1) - (!) INITIALIZING GAME SERVER...
+(2008: 7:10: 2: 1) - (!) Reading configuration file...
+(2008: 7:10: 2: 1) - Gate DNS is set to 0
+(2008: 7:10: 2: 1) - Log DNS is set to 0
+(2008: 7:10: 2: 1) - (*) Game server name : toh
+(2008: 7:10: 2: 1) - (*) Game server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) Internal (LAN) Game server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) External (Internet) Game server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) Game server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) Game server port : 9905
+(2008: 7:10: 2: 1) - (*) Log server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) Log server port : 2500
+(2008: 7:10: 2: 1) - (*) Gate server address : 10.0.0.6
+(2008: 7:10: 2: 1) - (*) Gate server port : 6502
+(2008: 7:10: 2: 1) - (*) Game server mode : INTERNET
+(2008: 7:10: 2: 1) - (*) Add map (toh1)   - Loading map info files...
+(2008: 7:10: 2: 1) - (*) Data file loading success.
+(2008: 7:10: 2: 1) - (*) Add map (toh2)   - Loading map info files...
+(2008: 7:10: 2: 1) - (*) Data file loading success.
+(2008: 7:10: 2: 1) - (*) Add map (toh3)   - Loading map info files...
+(2008: 7:10: 2: 1) - (*) Data file loading success.
+(2008: 7:10: 2: 1) - (!) Reading settings file...
+(2008: 7:10: 2: 1) - (*) Enemy Kill Mode: DEATHMATCH
+(2008: 7:10: 2: 1) - (*) Player gains (1) EK per enemy kill.
+(2008: 7:10: 2: 1) - (*) Administator vulnerability ignored.
+(2008: 7:10: 2: 1) - (*) Monday Raid Time : (3) minutes
+(2008: 7:10: 2: 1) - (*) Tuesday Raid Time : (3) minutes
+(2008: 7:10: 2: 1) - (*) Wednesday Raid Time : (3) minutes
+(2008: 7:10: 2: 1) - (*) Thursday Raid Time : (3) minutes
+(2008: 7:10: 2: 1) - (*) Friday Raid Time : (10) minutes
+(2008: 7:10: 2: 1) - (*) Saturday Raid Time : (45) minutes
+(2008: 7:10: 2: 1) - (*) Sunday Raid Time : (60) minutes
+(2008: 7:10: 2: 1) - (*) Not Logging Any Chat.
+(2008: 7:10: 2: 1) - (*) Summoning guild costs (50000) gold
+(2008: 7:10: 2: 1) - (*) Slate Success Rate (50) percent
+(2008: 7:10: 2: 1) - (*) Security number memorized!
+(2008: 7:10: 2: 1) - (!) Reading AdminList.cfg...
+(2008: 7:10: 2: 1) - (!) Reading BannedList.cfg...
+(2008: 7:10: 2: 1) - (!) Reading settings file...
+(2008: 7:10: 2: 1) - (!) Reading World.cfg...
+(2008: 7:10: 2: 1) - (!) World configuration - success!
+(2008: 7:10: 2: 1) - (!) Reading Teleport.cfg...
+(2008: 7:10: 2: 1) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2008: 7:10: 2: 1) - (!) Reading Crafting.cfg...
+(2008: 7:10: 2: 1) - (!) CRAFTING(Total:25) configuration - success!
+(2008: 7:10: 2: 1) - (!) Try to Connect main-log-socket... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to Connect Gate Server... Addr:10.0.0.6  Port:6502
+(2008: 7:10: 2: 1) - (!) Notify Message list file not found!...
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(1)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(2)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!!!) Gate-socket connection counting...1
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(3)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(4)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(5)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!!!) Gate-socket connection counting...2
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(6)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!!!) Gate-socket connected!
+(2008: 7:10: 2: 1) - (!) Try to register game server(toh) - GateServer
+(2008: 7:10: 2: 1) - (!) Game Server registration to Gate Server - Success!
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(7)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(8)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 1) - (!) Try to connect sub-log-socket(9)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(3) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(8) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Main-log-socket connected!
+(2008: 7:10: 2: 2) - (!) Try to register game server(toh)
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(2) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(7) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(1) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(5) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(0) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(4) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!) NPC configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) NPC(Total:115) configuration - success!
+(2008: 7:10: 2: 2) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) ITEM(Total:292) configuration - success!
+(2008: 7:10: 2: 2) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) ITEM(Total:623) configuration - success!
+(2008: 7:10: 2: 2) - (!) MAGIC configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) MAGIC(Total:96) configuration - success!
+(2008: 7:10: 2: 2) - (!) SKILL configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) SKILL(Total:23) configuration - success!
+(2008: 7:10: 2: 2) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) ITEM(Total:914) configuration - success!
+(2008: 7:10: 2: 2) - (!) QUEST configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) QUEST(Total:90) configuration - success!
+(2008: 7:10: 2: 2) - (!) BUILD-ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) BuildItem(Total:97) configuration - success!
+(2008: 7:10: 2: 2) - (!) DupItemID file contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) DupItemID(Total:13) configuration - success!
+(2008: 7:10: 2: 2) - (!) Noticement file contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) Noticement Data Size: 1269
+(2008: 7:10: 2: 2) - (!) PORTION configuration contents received. Now decoding...
+(2008: 7:10: 2: 2) - (!) POTION(Total:19) configuration - success!
+(2008: 7:10: 2: 2) - (!) Game Server registration to Log Server - Success!
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(9) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - (!!!) Log Socket Connection Established Log#(6) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2: 2) - Sending start message...
+(2008: 7:10: 2: 2) - (!) Reading Map info file : mapdata\toh1.txt
+(2008: 7:10: 2: 2) - (!) Map info file decoding(mapdata\toh1.txt) - success! TL(9) WP(9) LNPC(0) MXO(300) RMG(1 / 13)
+(2008: 7:10: 2: 2) - Map:(toh1), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2: 2) - (!) Reading Map info file : mapdata\toh2.txt
+(2008: 7:10: 2: 2) - (!) Map info file decoding(mapdata\toh2.txt) - success! TL(12) WP(9) LNPC(0) MXO(200) RMG(1 / 14)
+(2008: 7:10: 2: 2) - Map:(toh2), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2: 2) - (!) Reading Map info file : mapdata\toh3.txt
+(2008: 7:10: 2: 2) - (!) Map info file decoding(mapdata\toh3.txt) - success! TL(6) WP(9) LNPC(0) MXO(180) RMG(1 / 15)
+(2008: 7:10: 2: 2) - Map:(toh3), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2: 2) - (!) Reading Crusade configuration file...
+(2008: 7:10: 2: 2) - (!) Reading Schedule file...
+(2008: 7:10: 2: 2) - (!) Reading CrusadeGUID file...
+(2008: 7:10: 2: 2) - CrusadeGUID = 1
+(2008: 7:10: 2: 2) - CrusadeWinnerSide = 0
+(2008: 7:10: 2: 2) - (!) Reading ApocalypseGUID file...
+(2008: 7:10: 2: 2) - ApocalypseGUID = 21893752
+(2008: 7:10: 2: 2) - (!) Reading HeldenianGUID file...
+(2008: 7:10: 2: 2) - (!) Read HeldenianGUID (0) file: Nobody owns BtField (0).
+(2008: 7:10: 2: 2) - 
+(2008: 7:10: 2: 2) - (!) Game Server Activated.
+(2008: 7:10: 2: 6) - <1> Client Connected: (10.0.0.6)
+(2008: 7:10: 2: 6) - Confirmed. Account: (rune2) Name: (CrazyAdmin) Level: (376)
+(2008: 7:10: 2:15) - (!) INITIALIZING GAME SERVER...
+(2008: 7:10: 2:15) - (!) Reading configuration file...
+(2008: 7:10: 2:15) - Gate DNS is set to 0
+(2008: 7:10: 2:15) - Log DNS is set to 0
+(2008: 7:10: 2:15) - (*) Game server name : toh
+(2008: 7:10: 2:15) - (*) Game server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) Internal (LAN) Game server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) External (Internet) Game server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) Game server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) Game server port : 9905
+(2008: 7:10: 2:15) - (*) Log server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) Log server port : 2500
+(2008: 7:10: 2:15) - (*) Gate server address : 10.0.0.6
+(2008: 7:10: 2:15) - (*) Gate server port : 6502
+(2008: 7:10: 2:15) - (*) Game server mode : INTERNET
+(2008: 7:10: 2:15) - (*) Add map (toh1)   - Loading map info files...
+(2008: 7:10: 2:15) - (*) Data file loading success.
+(2008: 7:10: 2:15) - (*) Add map (toh2)   - Loading map info files...
+(2008: 7:10: 2:15) - (*) Data file loading success.
+(2008: 7:10: 2:15) - (*) Add map (toh3)   - Loading map info files...
+(2008: 7:10: 2:15) - (*) Data file loading success.
+(2008: 7:10: 2:15) - (!) Reading settings file...
+(2008: 7:10: 2:15) - (*) Enemy Kill Mode: DEATHMATCH
+(2008: 7:10: 2:15) - (*) Player gains (1) EK per enemy kill.
+(2008: 7:10: 2:15) - (*) Administator vulnerability ignored.
+(2008: 7:10: 2:15) - (*) Monday Raid Time : (3) minutes
+(2008: 7:10: 2:15) - (*) Tuesday Raid Time : (3) minutes
+(2008: 7:10: 2:15) - (*) Wednesday Raid Time : (3) minutes
+(2008: 7:10: 2:15) - (*) Thursday Raid Time : (3) minutes
+(2008: 7:10: 2:15) - (*) Friday Raid Time : (10) minutes
+(2008: 7:10: 2:15) - (*) Saturday Raid Time : (45) minutes
+(2008: 7:10: 2:15) - (*) Sunday Raid Time : (60) minutes
+(2008: 7:10: 2:15) - (*) Not Logging Any Chat.
+(2008: 7:10: 2:15) - (*) Summoning guild costs (50000) gold
+(2008: 7:10: 2:15) - (*) Slate Success Rate (50) percent
+(2008: 7:10: 2:15) - (*) Security number memorized!
+(2008: 7:10: 2:15) - (!) Reading AdminList.cfg...
+(2008: 7:10: 2:15) - (!) Reading BannedList.cfg...
+(2008: 7:10: 2:15) - (!) Reading settings file...
+(2008: 7:10: 2:15) - (!) Reading World.cfg...
+(2008: 7:10: 2:15) - (!) World configuration - success!
+(2008: 7:10: 2:15) - (!) Reading Teleport.cfg...
+(2008: 7:10: 2:15) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2008: 7:10: 2:15) - (!) Reading Crafting.cfg...
+(2008: 7:10: 2:15) - (!) CRAFTING(Total:25) configuration - success!
+(2008: 7:10: 2:15) - (!) Try to Connect main-log-socket... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to Connect Gate Server... Addr:10.0.0.6  Port:6502
+(2008: 7:10: 2:15) - (!) Notify Message list file not found!...
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(1)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(2)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Gate-socket connection counting...1
+(2008: 7:10: 2:15) - (!!!) Gate-socket connected!
+(2008: 7:10: 2:15) - (!) Try to register game server(toh) - GateServer
+(2008: 7:10: 2:15) - (!) Game Server registration to Gate Server - Success!
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(3)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(4)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(5)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(6)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(7)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(0) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(5) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(4) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Main-log-socket connected!
+(2008: 7:10: 2:15) - (!) Try to register game server(toh)
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(3) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(8)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(8) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(6) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(7) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(2) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(1) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!) NPC configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) NPC(Total:115) configuration - success!
+(2008: 7:10: 2:15) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) ITEM(Total:292) configuration - success!
+(2008: 7:10: 2:15) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) ITEM(Total:623) configuration - success!
+(2008: 7:10: 2:15) - (!) MAGIC configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) MAGIC(Total:96) configuration - success!
+(2008: 7:10: 2:15) - (!) SKILL configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) SKILL(Total:23) configuration - success!
+(2008: 7:10: 2:15) - (!) ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) ITEM(Total:914) configuration - success!
+(2008: 7:10: 2:15) - (!) QUEST configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) QUEST(Total:90) configuration - success!
+(2008: 7:10: 2:15) - (!) BUILD-ITEM configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) BuildItem(Total:97) configuration - success!
+(2008: 7:10: 2:15) - (!) DupItemID file contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) DupItemID(Total:13) configuration - success!
+(2008: 7:10: 2:15) - (!) Noticement file contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) Noticement Data Size: 1269
+(2008: 7:10: 2:15) - (!) PORTION configuration contents received. Now decoding...
+(2008: 7:10: 2:15) - (!) POTION(Total:19) configuration - success!
+(2008: 7:10: 2:15) - (!) Game Server registration to Log Server - Success!
+(2008: 7:10: 2:15) - (!) Try to connect sub-log-socket(9)... Addr:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - (!!!) Log Socket Connection Established Log#(9) Address:10.0.0.6  Port:2500
+(2008: 7:10: 2:15) - Sending start message...
+(2008: 7:10: 2:15) - (!) Reading Map info file : mapdata\toh1.txt
+(2008: 7:10: 2:15) - (!) Map info file decoding(mapdata\toh1.txt) - success! TL(9) WP(9) LNPC(0) MXO(300) RMG(1 / 13)
+(2008: 7:10: 2:15) - Map:(toh1), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2:15) - (!) Reading Map info file : mapdata\toh2.txt
+(2008: 7:10: 2:15) - (!) Map info file decoding(mapdata\toh2.txt) - success! TL(12) WP(9) LNPC(0) MXO(200) RMG(1 / 14)
+(2008: 7:10: 2:15) - Map:(toh2), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2:15) - (!) Reading Map info file : mapdata\toh3.txt
+(2008: 7:10: 2:15) - (!) Map info file decoding(mapdata\toh3.txt) - success! TL(6) WP(9) LNPC(0) MXO(180) RMG(1 / 15)
+(2008: 7:10: 2:15) - Map:(toh3), m_bIsApocalypseMap:(-842150451)
+(2008: 7:10: 2:15) - (!) Reading Crusade configuration file...
+(2008: 7:10: 2:15) - (!) Reading Schedule file...
+(2008: 7:10: 2:15) - (!) Reading CrusadeGUID file...
+(2008: 7:10: 2:15) - CrusadeGUID = 1
+(2008: 7:10: 2:15) - CrusadeWinnerSide = 0
+(2008: 7:10: 2:15) - (!) Reading ApocalypseGUID file...
+(2008: 7:10: 2:15) - ApocalypseGUID = 21893752
+(2008: 7:10: 2:15) - (!) Reading HeldenianGUID file...
+(2008: 7:10: 2:15) - (!) Read HeldenianGUID (0) file: Nobody owns BtField (0).
+(2008: 7:10: 2:15) - 
+(2008: 7:10: 2:15) - (!) Game Server Activated.
+(2008: 7:10: 2:15) - <1> Client Connected: (10.0.0.6)
+(2008: 7:10: 2:15) - Confirmed. Account: (rune2) Name: (CrazyAdmin) Level: (376)
+(2008: 7:10: 2:16) - (!) Admin Order: Summon(Dummy)-(1)

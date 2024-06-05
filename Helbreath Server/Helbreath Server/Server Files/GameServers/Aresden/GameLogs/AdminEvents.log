@@ -1,0 +1,588 @@
+(2013: 8:13: 3: 2) - (!) INITIALIZING GAME SERVER...
+(2013: 8:13: 3: 2) - (!) Reading configuration file...
+(2013: 8:13: 3: 2) - Gate DNS is set to 0
+(2013: 8:13: 3: 2) - Log DNS is set to 0
+(2013: 8:13: 3: 2) - (*) Game server name : Aresden
+(2013: 8:13: 3: 2) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) Internal (LAN) Game server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) External (Internet) Game server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) Game server port : 9900
+(2013: 8:13: 3: 2) - (*) Log server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) Log server port : 2500
+(2013: 8:13: 3: 2) - (*) Gate server address : 10.0.0.11
+(2013: 8:13: 3: 2) - (*) Gate server port : 6502
+(2013: 8:13: 3: 2) - (*) Game server mode : INTERNET
+(2013: 8:13: 3: 2) - (*) Add map (aresden)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arefarm)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (aresdend1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arebrk11)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arebrk12)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arebrk21)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arebrk22)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (wrhus_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (cityhall_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arewrhus)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (resurr1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (gshop_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (arejail)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (cath_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (wzdtwr_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (gshop_1f)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (wrhus_1f)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (bsmith_1f)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (bsmith_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (gldhall_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (*) Add map (CmdHall_1)   - Loading map info files...
+(2013: 8:13: 3: 2) - (*) Data file loading success.
+(2013: 8:13: 3: 2) - (!) Reading settings file...
+(2013: 8:13: 3: 2) - (*) Enemy Kill Mode: DEATHMATCH
+(2013: 8:13: 3: 2) - (*) Player gains (1) EK per enemy kill.
+(2013: 8:13: 3: 2) - (*) Administator vulnerability ignored.
+(2013: 8:13: 3: 2) - (*) Monday Raid Time : (3) minutes
+(2013: 8:13: 3: 2) - (*) Tuesday Raid Time : (3) minutes
+(2013: 8:13: 3: 2) - (*) Wednesday Raid Time : (3) minutes
+(2013: 8:13: 3: 2) - (*) Thursday Raid Time : (3) minutes
+(2013: 8:13: 3: 2) - (*) Friday Raid Time : (10) minutes
+(2013: 8:13: 3: 2) - (*) Saturday Raid Time : (45) minutes
+(2013: 8:13: 3: 2) - (*) Sunday Raid Time : (60) minutes
+(2013: 8:13: 3: 2) - (*) Not Logging Any Chat.
+(2013: 8:13: 3: 2) - (*) Summoning guild costs (50000) gold
+(2013: 8:13: 3: 2) - (*) Slate Success Rate (50) percent
+(2013: 8:13: 3: 2) - (*) Security number memorized!
+(2013: 8:13: 3: 2) - (*) Heldenian War starting time set to 1 minutes.
+(2013: 8:13: 3: 2) - (*) Heldenian War total duration set to 105 minutes.
+(2013: 8:13: 3: 2) - (!) Reading AdminList.cfg...
+(2013: 8:13: 3: 2) - (!) Reading BannedList.cfg...
+(2013: 8:13: 3: 2) - (!) Reading settings file...
+(2013: 8:13: 3: 2) - (!) Reading World.cfg...
+(2013: 8:13: 3: 2) - (!) World configuration - success!
+(2013: 8:13: 3: 2) - (!) Reading Teleport.cfg...
+(2013: 8:13: 3: 2) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2013: 8:13: 3: 2) - (!) Reading Crafting.cfg...
+(2013: 8:13: 3: 2) - (!) CRAFTING(Total:25) configuration - success!
+(2013: 8:13: 3: 2) - (!) Try to Connect main-log-socket... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to Connect Gate Server... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3: 2) - (!) Notify Message list file not found!...
+(2013: 8:13: 3: 2) - (!!!) Main-log-socket connected!
+(2013: 8:13: 3: 2) - (!) Try to register game server(Aresden)
+(2013: 8:13: 3: 2) - (!!!) Gate-socket connected!
+(2013: 8:13: 3: 2) - (!) Try to register game server(Aresden) - GateServer
+(2013: 8:13: 3: 2) - (!) Game Server registration to Gate Server - Success!
+(2013: 8:13: 3: 2) - (!) NPC configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) NPC(Total:115) configuration - success!
+(2013: 8:13: 3: 2) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) ITEM(Total:292) configuration - success!
+(2013: 8:13: 3: 2) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) ITEM(Total:623) configuration - success!
+(2013: 8:13: 3: 2) - (!) MAGIC configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) MAGIC(Total:96) configuration - success!
+(2013: 8:13: 3: 2) - (!) SKILL configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) SKILL(Total:23) configuration - success!
+(2013: 8:13: 3: 2) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) ITEM(Total:914) configuration - success!
+(2013: 8:13: 3: 2) - (!) QUEST configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) QUEST(Total:90) configuration - success!
+(2013: 8:13: 3: 2) - (!) BUILD-ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) BuildItem(Total:97) configuration - success!
+(2013: 8:13: 3: 2) - (!) DupItemID file contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) DupItemID(Total:13) configuration - success!
+(2013: 8:13: 3: 2) - (!) Noticement file contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) Noticement Data Size: 1269
+(2013: 8:13: 3: 2) - (!) PORTION configuration contents received. Now decoding...
+(2013: 8:13: 3: 2) - (!) POTION(Total:19) configuration - success!
+(2013: 8:13: 3: 2) - (!) Game Server registration to Log Server - Success!
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(0) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(1)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(1) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(2)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(2) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(3)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(3) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(4)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(4) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(5)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(5) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(6)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(6) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(7)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(7) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(8)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(8) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!) Try to connect sub-log-socket(9)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - (!!!) Log Socket Connection Established Log#(9) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3: 2) - Sending start message...
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\aresden.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\aresden.txt) - success! WP(9) LNPC(0) RMG(1 / 1)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arefarm.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arefarm.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\aresdend1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\aresdend1.txt) - success! WP(9) LNPC(0) RMG(1 / 4)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arebrk11.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arebrk11.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arebrk12.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arebrk12.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arebrk21.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arebrk21.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arebrk22.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arebrk22.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\wrhus_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\wrhus_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\cityhall_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\cityhall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arewrhus.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arewrhus.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\resurr1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\resurr1.txt) - success! WP(0) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\gshop_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\gshop_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\arejail.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\arejail.txt) - success! WP(0) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\cath_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\cath_1.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\wzdtwr_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\wzdtwr_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\gshop_1f.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\gshop_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\wrhus_1f.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\wrhus_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\bsmith_1f.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\bsmith_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\bsmith_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\bsmith_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\gldhall_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\gldhall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Map info file : mapdata\CmdHall_1.txt
+(2013: 8:13: 3: 2) - (!) Map decoding(mapdata\CmdHall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3: 2) - (!) Reading Crusade configuration file...
+(2013: 8:13: 3: 2) - (!) Map(aresden) Strike Point(1) Related Map(cityhall_1) Index(8)
+(2013: 8:13: 3: 2) - (!) Map(aresden) Strike Point(2) Related Map(gshop_1) Index(11)
+(2013: 8:13: 3: 2) - (!) Map(aresden) Strike Point(3) Related Map(bsmith_1) Index(18)
+(2013: 8:13: 3: 2) - (!) Map(aresden) Strike Point(4) Related Map(wrhus_1) Index(7)
+(2013: 8:13: 3: 2) - (!) Reading Schedule file...
+(2013: 8:13: 3: 2) - (!) Reading CrusadeGUID file...
+(2013: 8:13: 3: 2) - CrusadeGUID = 75350503
+(2013: 8:13: 3: 2) - CrusadeWinnerSide = 0
+(2013: 8:13: 3: 2) - (!) Reading ApocalypseGUID file...
+(2013: 8:13: 3: 2) - ApocalypseGUID = 17194874
+(2013: 8:13: 3: 2) - (_) Reading HeldenianGUID file...
+(2013: 8:13: 3: 2) - (_) Read HeldenianGUID (6948590) file: Aresden owns BtField (1).
+(2013: 8:13: 3: 2) - 
+(2013: 8:13: 3: 2) - (!) Game Server Activated.
+(2013: 8:13: 3: 4) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3: 4) - Confirmed. Account: (GameMaster) Name: (GameMaster) Level: (180)
+(2013: 8:13: 3: 8) - (!) Admin Order: Summon(Demon)-(1)
+(2013: 8:13: 3:11) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:12) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:12) - Confirmed. Account: (admin) Name: (Shisue) Level: (19)
+(2013: 8:13: 3:14) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:15) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:15) - Confirmed. Account: (admin) Name: (Shisue) Level: (19)
+(2013: 8:13: 3:15) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:15) - (!!!) Gate-socket connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect gate-socket... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:15) - (***) Socket to Gate-Server crashed! Critical error!
+(2013: 8:13: 3:15) - (!) Try to reconnect gate-socket... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:15) - (!!!) Gate-socket connection counting...1
+(2013: 8:13: 3:15) - (***) Socket to Gate-Server crashed! Critical error!
+(2013: 8:13: 3:15) - (!) Try to reconnect gate-socket... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:15) - (!!!) Gate-socket connection counting...1
+(2013: 8:13: 3:15) - (***) Socket to Gate-Server crashed! Critical error!
+(2013: 8:13: 3:15) - (!) Try to reconnect gate-socket... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:15) - (!!!) Gate-socket connection counting...1
+(2013: 8:13: 3:15) - (!!!) Main-log-socket connection lost!
+(2013: 8:13: 3:15) - (!!!) GAME SERVER SHUTDOWN PROCESS BEGIN(by main-log-socket connection Lost)!!!
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(0) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(0)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(1) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(1)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(2) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(2)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(3) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(3)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(4) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(4)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(5) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(5)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(6) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(6)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(7) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(7)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(8) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(8)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!!!) Sub-log-socket(9) connection lost!
+(2013: 8:13: 3:15) - (!!!) Try to reconnect sub-log-socket(9)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!) GAME SERVER SHUTDOWN PROCESS COMPLETED! All players are disconnected.
+(2013: 8:13: 3:15) - (!) INITIALIZING GAME SERVER...
+(2013: 8:13: 3:15) - (!) Reading configuration file...
+(2013: 8:13: 3:15) - Gate DNS is set to 0
+(2013: 8:13: 3:15) - Log DNS is set to 0
+(2013: 8:13: 3:15) - (*) Game server name : Aresden
+(2013: 8:13: 3:15) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) Internal (LAN) Game server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) External (Internet) Game server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) Game server port : 9900
+(2013: 8:13: 3:15) - (*) Log server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) Log server port : 2500
+(2013: 8:13: 3:15) - (*) Gate server address : 10.0.0.11
+(2013: 8:13: 3:15) - (*) Gate server port : 6502
+(2013: 8:13: 3:15) - (*) Game server mode : INTERNET
+(2013: 8:13: 3:15) - (*) Add map (aresden)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arefarm)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (aresdend1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arebrk11)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arebrk12)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arebrk21)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arebrk22)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (wrhus_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (cityhall_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arewrhus)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (resurr1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (gshop_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (arejail)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (cath_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (wzdtwr_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (gshop_1f)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (wrhus_1f)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (bsmith_1f)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (bsmith_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (gldhall_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (*) Add map (CmdHall_1)   - Loading map info files...
+(2013: 8:13: 3:15) - (*) Data file loading success.
+(2013: 8:13: 3:15) - (!) Reading settings file...
+(2013: 8:13: 3:15) - (*) Enemy Kill Mode: DEATHMATCH
+(2013: 8:13: 3:15) - (*) Player gains (1) EK per enemy kill.
+(2013: 8:13: 3:15) - (*) Administator vulnerability ignored.
+(2013: 8:13: 3:15) - (*) Monday Raid Time : (3) minutes
+(2013: 8:13: 3:15) - (*) Tuesday Raid Time : (3) minutes
+(2013: 8:13: 3:15) - (*) Wednesday Raid Time : (3) minutes
+(2013: 8:13: 3:15) - (*) Thursday Raid Time : (3) minutes
+(2013: 8:13: 3:15) - (*) Friday Raid Time : (10) minutes
+(2013: 8:13: 3:15) - (*) Saturday Raid Time : (45) minutes
+(2013: 8:13: 3:15) - (*) Sunday Raid Time : (60) minutes
+(2013: 8:13: 3:15) - (*) Not Logging Any Chat.
+(2013: 8:13: 3:15) - (*) Summoning guild costs (50000) gold
+(2013: 8:13: 3:15) - (*) Slate Success Rate (50) percent
+(2013: 8:13: 3:15) - (*) Security number memorized!
+(2013: 8:13: 3:15) - (*) Heldenian War starting time set to 1 minutes.
+(2013: 8:13: 3:15) - (*) Heldenian War total duration set to 105 minutes.
+(2013: 8:13: 3:15) - (!) Reading AdminList.cfg...
+(2013: 8:13: 3:15) - (!) Reading BannedList.cfg...
+(2013: 8:13: 3:15) - (!) Reading settings file...
+(2013: 8:13: 3:15) - (!) Reading World.cfg...
+(2013: 8:13: 3:15) - (!) World configuration - success!
+(2013: 8:13: 3:15) - (!) Reading Teleport.cfg...
+(2013: 8:13: 3:15) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2013: 8:13: 3:15) - (!) Reading Crafting.cfg...
+(2013: 8:13: 3:15) - (!) CRAFTING(Total:25) configuration - success!
+(2013: 8:13: 3:15) - (!) Try to Connect main-log-socket... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:15) - (!) Try to Connect Gate Server... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:15) - (!) Notify Message list file not found!...
+(2013: 8:13: 3:15) - (!!!) Gate-socket connection counting...1
+(2013: 8:13: 3:15) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) INITIALIZING GAME SERVER...
+(2013: 8:13: 3:18) - (!) Reading configuration file...
+(2013: 8:13: 3:18) - Gate DNS is set to 0
+(2013: 8:13: 3:18) - Log DNS is set to 0
+(2013: 8:13: 3:18) - (*) Game server name : Aresden
+(2013: 8:13: 3:18) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Internal (LAN) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) External (Internet) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Game server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Game server port : 9900
+(2013: 8:13: 3:18) - (*) Log server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Log server port : 2500
+(2013: 8:13: 3:18) - (*) Gate server address : 10.0.0.11
+(2013: 8:13: 3:18) - (*) Gate server port : 6502
+(2013: 8:13: 3:18) - (*) Game server mode : INTERNET
+(2013: 8:13: 3:18) - (*) Add map (aresden)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arefarm)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (aresdend1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arebrk11)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arebrk12)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arebrk21)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arebrk22)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (wrhus_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (cityhall_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arewrhus)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (resurr1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (gshop_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (arejail)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (cath_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (wzdtwr_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (gshop_1f)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (wrhus_1f)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (bsmith_1f)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (bsmith_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (gldhall_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (*) Add map (CmdHall_1)   - Loading map info files...
+(2013: 8:13: 3:18) - (*) Data file loading success.
+(2013: 8:13: 3:18) - (!) Reading settings file...
+(2013: 8:13: 3:18) - (*) Enemy Kill Mode: DEATHMATCH
+(2013: 8:13: 3:18) - (*) Player gains (1) EK per enemy kill.
+(2013: 8:13: 3:18) - (*) Administator vulnerability ignored.
+(2013: 8:13: 3:18) - (*) Monday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Tuesday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Wednesday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Thursday Raid Time : (3) minutes
+(2013: 8:13: 3:18) - (*) Friday Raid Time : (10) minutes
+(2013: 8:13: 3:18) - (*) Saturday Raid Time : (45) minutes
+(2013: 8:13: 3:18) - (*) Sunday Raid Time : (60) minutes
+(2013: 8:13: 3:18) - (*) Not Logging Any Chat.
+(2013: 8:13: 3:18) - (*) Summoning guild costs (50000) gold
+(2013: 8:13: 3:18) - (*) Slate Success Rate (50) percent
+(2013: 8:13: 3:18) - (*) Security number memorized!
+(2013: 8:13: 3:18) - (*) Heldenian War starting time set to 1 minutes.
+(2013: 8:13: 3:18) - (*) Heldenian War total duration set to 105 minutes.
+(2013: 8:13: 3:18) - (!) Reading AdminList.cfg...
+(2013: 8:13: 3:18) - (!) Reading BannedList.cfg...
+(2013: 8:13: 3:18) - (!) Reading settings file...
+(2013: 8:13: 3:18) - (!) Reading World.cfg...
+(2013: 8:13: 3:18) - (!) World configuration - success!
+(2013: 8:13: 3:18) - (!) Reading Teleport.cfg...
+(2013: 8:13: 3:18) - (!) TELEPORT-LIST(Total:2) configuration - success!
+(2013: 8:13: 3:18) - (!) Reading Crafting.cfg...
+(2013: 8:13: 3:18) - (!) CRAFTING(Total:25) configuration - success!
+(2013: 8:13: 3:18) - (!) Try to Connect main-log-socket... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to Connect Gate Server... Addr:10.0.0.11  Port:6502
+(2013: 8:13: 3:18) - (!) Notify Message list file not found!...
+(2013: 8:13: 3:18) - (!!!) Main-log-socket connected!
+(2013: 8:13: 3:18) - (!) Try to register game server(Aresden)
+(2013: 8:13: 3:18) - (!!!) Gate-socket connected!
+(2013: 8:13: 3:18) - (!) Try to register game server(Aresden) - GateServer
+(2013: 8:13: 3:18) - (!) Game Server registration to Gate Server - Success!
+(2013: 8:13: 3:18) - (!) NPC configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) NPC(Total:115) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:292) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:623) configuration - success!
+(2013: 8:13: 3:18) - (!) MAGIC configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) MAGIC(Total:96) configuration - success!
+(2013: 8:13: 3:18) - (!) SKILL configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) SKILL(Total:23) configuration - success!
+(2013: 8:13: 3:18) - (!) ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) ITEM(Total:914) configuration - success!
+(2013: 8:13: 3:18) - (!) QUEST configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) QUEST(Total:90) configuration - success!
+(2013: 8:13: 3:18) - (!) BUILD-ITEM configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) BuildItem(Total:97) configuration - success!
+(2013: 8:13: 3:18) - (!) DupItemID file contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) DupItemID(Total:13) configuration - success!
+(2013: 8:13: 3:18) - (!) Noticement file contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) Noticement Data Size: 1269
+(2013: 8:13: 3:18) - (!) PORTION configuration contents received. Now decoding...
+(2013: 8:13: 3:18) - (!) POTION(Total:19) configuration - success!
+(2013: 8:13: 3:18) - (!) Game Server registration to Log Server - Success!
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(0)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(0) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(1)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(1) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(2)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(2) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(3)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(3) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(4)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(4) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(5)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(5) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(6)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(6) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(7)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(7) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(8)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(8) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!) Try to connect sub-log-socket(9)... Addr:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - (!!!) Log Socket Connection Established Log#(9) Address:10.0.0.11  Port:2500
+(2013: 8:13: 3:18) - Sending start message...
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\aresden.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\aresden.txt) - success! WP(9) LNPC(0) RMG(1 / 1)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arefarm.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arefarm.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\aresdend1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\aresdend1.txt) - success! WP(9) LNPC(0) RMG(1 / 4)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arebrk11.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arebrk11.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arebrk12.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arebrk12.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arebrk21.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arebrk21.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arebrk22.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arebrk22.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\wrhus_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\wrhus_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\cityhall_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\cityhall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arewrhus.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arewrhus.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\resurr1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\resurr1.txt) - success! WP(0) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\gshop_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\gshop_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\arejail.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\arejail.txt) - success! WP(0) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\cath_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\cath_1.txt) - success! WP(10) LNPC(0) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\wzdtwr_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\wzdtwr_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\gshop_1f.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\gshop_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\wrhus_1f.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\wrhus_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\bsmith_1f.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\bsmith_1f.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\bsmith_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\bsmith_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\gldhall_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\gldhall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Map info file : mapdata\CmdHall_1.txt
+(2013: 8:13: 3:18) - (!) Map decoding(mapdata\CmdHall_1.txt) - success! WP(10) LNPC(1) RMG(-842150451 / 0)
+(2013: 8:13: 3:18) - (!) Reading Crusade configuration file...
+(2013: 8:13: 3:18) - (!) Map(aresden) Strike Point(1) Related Map(cityhall_1) Index(8)
+(2013: 8:13: 3:18) - (!) Map(aresden) Strike Point(2) Related Map(gshop_1) Index(11)
+(2013: 8:13: 3:18) - (!) Map(aresden) Strike Point(3) Related Map(bsmith_1) Index(18)
+(2013: 8:13: 3:18) - (!) Map(aresden) Strike Point(4) Related Map(wrhus_1) Index(7)
+(2013: 8:13: 3:18) - (!) Reading Schedule file...
+(2013: 8:13: 3:18) - (!) Reading CrusadeGUID file...
+(2013: 8:13: 3:18) - CrusadeGUID = 75350503
+(2013: 8:13: 3:18) - CrusadeWinnerSide = 0
+(2013: 8:13: 3:18) - (!) Reading ApocalypseGUID file...
+(2013: 8:13: 3:18) - ApocalypseGUID = 17194874
+(2013: 8:13: 3:18) - (_) Reading HeldenianGUID file...
+(2013: 8:13: 3:18) - (_) Read HeldenianGUID (6948590) file: Aresden owns BtField (1).
+(2013: 8:13: 3:18) - 
+(2013: 8:13: 3:18) - (!) Game Server Activated.
+(2013: 8:13: 3:19) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:19) - Confirmed. Account: (admin) Name: (Shisue) Level: (19)
+(2013: 8:13: 3:21) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:21) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:21) - Confirmed. Account: (admin) Name: (Shisue) Level: (46)
+(2013: 8:13: 3:22) - (!) Admin Order: Summon(Demon)-(1)
+(2013: 8:13: 3:22) - (!) Admin Order: Summon(Wyvern)-(1)
+(2013: 8:13: 3:22) - (!) Admin Order: Summon(Abaddon)-(1)
+(2013: 8:13: 3:23) - (!) Admin Order: Summon(Demon)-(5)
+(2013: 8:13: 3:23) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:23) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:23) - Confirmed. Account: (admin) Name: (Shisue) Level: (151)
+(2013: 8:13: 3:26) - (!) Admin Order: Summon(Gail)-(1)
+(2013: 8:13: 3:29) - <1> Client Disconnected! (10.0.0.11)
+(2013: 8:13: 3:31) - <1> Client Connected: (10.0.0.11)
+(2013: 8:13: 3:31) - Confirmed. Account: (admin) Name: (Shisue) Level: (155)
+(2013: 8:13: 3:33) - (!) Admin Order: Summon(Shop-Keeper)-(1)
+(2013: 8:13: 3:33) - (!) Not existing NPC creation request! (Shop-Keeper) Ignored.
+(2013: 8:13: 3:33) - (!) Admin Order: Summon(Shop-Keeperw)-(1)
+(2013: 8:13: 3:33) - (!) Not existing NPC creation request! (Shop-Keeperw) Ignored.
+(2013: 8:13: 3:33) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:33) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:33) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:33) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:33) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:33) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:34) - (!) Admin Order: Summon(Kennedy)-(1)
+(2013: 8:13: 3:34) - (!) Admin Order: Summon(Tom)-(1)
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(ShopKepper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (ShopKepper) Ignored.
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(Shopkeeper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (Shopkeeper) Ignored.
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(Shopkeeper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (Shopkeeper) Ignored.
+(2013: 8:13: 3:35) - (!) Admin Order: Summon(Shopkeeper)-(1)
+(2013: 8:13: 3:35) - (!) Not existing NPC creation request! (Shopkeeper) Ignored.
+(2013: 8:13: 3:36) - (!) Admin Order: Summon(Shop-Keeper)-(1)
+(2013: 8:13: 3:36) - (!) Not existing NPC creation request! (Shop-Keeper) Ignored.
+(2013: 8:13: 3:36) - (!) Admin Order: Summon(Shop-Keeper)-(1)
+(2013: 8:13: 3:36) - (!) Not existing NPC creation request! (Shop-Keeper) Ignored.
+(2013: 8:13: 3:36) - (!) Admin Order: Summon(Shop-Keeper)-(1)
+(2013: 8:13: 3:36) - (!) Not existing NPC creation request! (Shop-Keeper) Ignored.
+(2013: 8:13: 3:36) - (!) Admin Order: Summon(Shop-Keeper)-(1)
+(2013: 8:13: 3:36) - (!) Not existing NPC creation request! (Shop-Keeper) Ignored.
+(2013: 8:13: 3:37) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:37) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:37) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:37) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:39) - (!) Admin Order: Summon(ShopKeeper)-(1)
+(2013: 8:13: 3:39) - (!) Not existing NPC creation request! (ShopKeeper) Ignored.
+(2013: 8:13: 3:39) - (!) Admin Order: Summon(Gandlf)-(1)
+(2013: 8:13: 3:39) - (!) Admin Order: Summon(Gandlf)-(1)
+(2013: 8:13: 3:40) - (!) Admin Order: Summon(Abaddon)-(10)
+(2013: 8:13: 3:42) - (!) Admin Order: Summon(Abaddon)-(1)
+(2013: 8:13: 3:42) - (!) Admin Order: Summon(Unicorn)-(1)
+(2013: 8:13: 3:42) - (!) Admin Order: Summon(Willian)-(1)
+(2013: 8:13: 3:42) - (!) Not existing NPC creation request! (Willian) Ignored.
+(2013: 8:13: 3:43) - (!) Admin Order: Summon(Willian)-(1)
+(2013: 8:13: 3:43) - (!) Not existing NPC creation request! (Willian) Ignored.
+(2013: 8:13: 3:43) - (!) Admin Order: Summon(William)-(1)
+(2013: 8:13: 3:49) - (!) Admin Order: Summon(Wyvern)-(1)
+(2013: 8:13: 3:51) - (!) Admin Order: Summon(Gandlf)-(1)
+(2013: 8:13: 3:52) - (!) Admin Order: Summon(Demon)-(1)
+(2013: 8:13: 3:54) - (!) Admin Order: Summon(Werewolf)-(1)
+(2013: 8:13: 3:54) - (!) Not existing NPC creation request! (Werewolf) Ignored.
+(2013: 8:13: 3:54) - (!) Admin Order: Summon(WereWolf)-(1)
+(2013: 8:13: 3:55) - (!) Admin Order: Summon(Troll)-(1)
+(2013: 8:13: 3:55) - (!) Admin Order: Summon(Troll)-(5)
